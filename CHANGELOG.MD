@@ -1,6 +1,8 @@
 # Changelog
 
 #1.13.1
+- Forked from CodersAfterDark for WitchesNWives Reval
+
 - Added Bravery Skill
 - Added Technology Skill
 
