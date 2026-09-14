@@ -51,7 +51,9 @@ public class ReskillableRegistryHandler {
                 new SkillBuilding(),
                 new SkillFarming(),
                 new SkillAgility(),
-                new SkillMagic()
+                new SkillMagic(),
+                new SkillBravery(),
+                new SkillTechnology()
         );
     }
 

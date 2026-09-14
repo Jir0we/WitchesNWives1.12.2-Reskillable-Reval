@@ -1,6 +1,12 @@
 # Reskillable
 Reskillable is a continuation of Skillable by Vazkii.
 
+This? This is a fork. By Jir0we. To modify and make a specific modpack pack more hellish with. 
+
+
+
+# Original Readme from Vazkii below
+
 Reskillable is a mod about leveling various skills up, using XP. Leveling skills up allow you to unlock traits and use more items. By default, a lot of vanilla items are locked to require leveling your skills up. For example, you're not allowed to use a Diamond Pickaxe until you reach level 16 Mining.
 Skillable adds 8 skills to level up, each of them with a few traits that you can unlock by leveling up. Traits power up your character, giving them special passive boosts.
 

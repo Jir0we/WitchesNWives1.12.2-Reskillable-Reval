@@ -33,6 +33,8 @@ reskillable.skill.reskillable.building=Building
 reskillable.skill.reskillable.farming=Farming
 reskillable.skill.reskillable.agility=Agility
 reskillable.skill.reskillable.magic=Magic
+reskillable.skill.reskillable.bravery=Bravery
+reskillable.skill.reskillable.technology=Technology
 
 # UNLOCKABLE NAMES
 reskillable.unlock.reskillable.obsidian_smasher=Obsidian Smasher
