@@ -26,6 +26,8 @@ reskillable.skill.reskillable.building=建造
 reskillable.skill.reskillable.farming=农耕
 reskillable.skill.reskillable.agility=敏捷
 reskillable.skill.reskillable.magic=魔法
+reskillable.skill.reskillable.bravery=勇敢
+reskillable.skill.reskillable.technology=技术
 
 # UNLOCKABLE NAMES
 reskillable.unlock.reskillable.obsidian_smasher=黑曜石破坏者

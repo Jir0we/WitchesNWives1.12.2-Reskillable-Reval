@@ -26,6 +26,8 @@ reskillable.skill.reskillable.building=Строительство
 reskillable.skill.reskillable.farming=Земледелие
 reskillable.skill.reskillable.agility=Выносливость
 reskillable.skill.reskillable.magic=Магия
+reskillable.skill.reskillable.bravery=Храбрость
+reskillable.skill.reskillable.technology=Технологии
 
 # UNLOCKABLE NAMES
 reskillable.unlock.reskillable.obsidian_smasher=Разрушитель Обсидиана
